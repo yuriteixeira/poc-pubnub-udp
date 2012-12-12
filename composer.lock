@@ -1,0 +1,59 @@
+{
+    "hash": "2dde1c865e81fe1e66b7009f61a9eb6f",
+    "packages": [
+        {
+            "name": "camcima/pubnub-php-api",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/camcima/pubnub-php-api",
+                "reference": "bddb2bc7b6f7707f1435a87a48360c8d7d110084"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://github.com/camcima/pubnub-php-api/archive/bddb2bc7b6f7707f1435a87a48360c8d7d110084.zip",
+                "reference": "bddb2bc7b6f7707f1435a87a48360c8d7d110084",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.0"
+            },
+            "time": "2012-11-12 18:27:23",
+            "type": "library",
+            "installation-source": "source",
+            "autoload": {
+                "psr-0": {
+                    "": "3.3"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Carlos Cima",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Composer port of PubNub PHP API",
+            "homepage": "https://github.com/camcima/pubnub-php-api",
+            "keywords": [
+                "php",
+                "websocket",
+                "composer",
+                "messaging",
+                "realtime",
+                "pubnub"
+            ]
+        }
+    ],
+    "packages-dev": null,
+    "aliases": [
+
+    ],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "camcima/pubnub-php-api": 20
+    }
+}

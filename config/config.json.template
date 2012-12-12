@@ -1,0 +1,28 @@
+{
+    "db": {
+        "host": "localhost",
+        "port": 27017,
+        "name": "pubnub-udp-test",
+        "collection": "messages",
+        "options": {
+            "safe": true
+        }
+    },
+
+    "udp": {
+        "host": "localhost",
+        "port": 6969
+    },
+
+    "pubnub": {
+        "publish_key": "demo",
+        "subscribe_key": "demo",
+        "secret": "demo",
+        "ssl": false,
+        "channels": [
+            "channel-1",
+            "channel-2",
+            "channel-xpto"
+        ]
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "require": {
+        "camcima/pubnub-php-api": "dev-master"
+    },
+    "authors": [
+        {
+            "name": "Yuri Teixeira",
+            "email": "oyuriteixeira@gmail.com"
+        }
+    ]
+}
